@@ -688,14 +688,14 @@ export default function Home() {
                 whileTap={{ scale: 0.98 }}
                 transition={{ duration: 0.3 }}
               >
-                With over 4 years of experience in web development, I've helped businesses across various industries
+                With over 4 years of experience in web development, I&apos;ve helped businesses across various industries
                 transform their digital presence. Based in Cameroon but working globally, I specialize in building
                 robust, scalable applications that solve real-world problems.
               </motion.p>
 
               <p className="text-zinc-300 mb-6">
                 My approach combines technical expertise with strategic thinking, ensuring that every project not only
-                meets technical requirements but also achieves business objectives. I'm passionate about creating
+                meets technical requirements but also achieves business objectives. I&apos;m passionate about creating
                 exceptional digital experiences that drive results.
               </p>
 
@@ -990,7 +990,7 @@ export default function Home() {
               <span className="text-sm text-teal-400">GET IN TOUCH</span>
             </div>
             <h2 className="text-4xl md:text-5xl font-bold mb-4 relative group">
-              <span className="relative z-10">Let's Work Together</span>
+              <span className="relative z-10">Let&apos;s Work Together</span>
               <motion.span
                 className="absolute left-0 bottom-0 h-3 bg-teal-500/20 z-0"
                 initial={{ width: 0 }}
@@ -1009,7 +1009,7 @@ export default function Home() {
             <div className="w-20 h-1 bg-teal-500"></div>
             <p className="max-w-2xl mt-6 text-zinc-300">
               Have a project in mind or want to discuss a potential collaboration? Reach out through any of these
-              channels and I'll get back to you promptly.
+              channels and I&apos;ll get back to you promptly.
             </p>
           </motion.div>
 
