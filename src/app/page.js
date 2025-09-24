@@ -318,8 +318,8 @@ export default function Home() {
       title: "SolaviseTech",
       category: "Tech",
       description:
-        "An AI-powered travel planning application providing personalized itineraries, booking services, and real-time recommendations.",
-      technologies: ["Firebase", "Supabase", "RESTful API", "Nextjs", "Tailwind CSS", "Shadcn UI"],
+        "A technology training institute, offering cloud computing, Web development, DevOps, AI, ML, and Cybersecurity courses. This website showcases  comprehensive technology training programs and solutions designed to help individuals and organizations advance in the digital era."
+      technologies: ["Firebase", "Nextjs", "Tailwind CSS", "Shadcn UI"],
       image: "/projects/solavisetech.png?height=600&width=800",
       link: "https://solavisetech.com/",
       featured: true,
