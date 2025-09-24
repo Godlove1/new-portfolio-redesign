@@ -295,11 +295,11 @@ export default function Home() {
       featured: true,
     },
     {
-      title: "Cameroon young Physician Network(CAMYPNET)",
+      title: "Cameroon Young Physician Network(CAMYPNET)",
       category: "Healthcare",
       description:
         "A platform connecting young physicians in Cameroon, providing resources, networking opportunities, and support.",
-      technologies: ["Next.js", "Firebase", "PostgreSQL", "Vercel", "GCP", "Tailwind CSS", "Shadcn UI"],
+      technologies: ["Next.js", "Firebase", "Vercel",  "Tailwind CSS", "Shadcn UI"],
       image: "/projects/camypnet.png?height=600&width=800",
       link: "https://camypnet.org/",
       featured: true,
@@ -318,7 +318,7 @@ export default function Home() {
       title: "SolaviseTech",
       category: "Tech",
       description:
-        "A technology training institute, offering cloud computing, Web development, DevOps, AI, ML, and Cybersecurity courses. This website showcases  comprehensive technology training programs and solutions designed to help individuals and organizations advance in the digital era."
+        "A technology training institute, offering cloud computing, Web development, DevOps, AI, ML, and Cybersecurity courses. This website showcases  comprehensive technology training programs and solutions designed to help individuals and organizations advance in the digital era.",
       technologies: ["Firebase", "Nextjs", "Tailwind CSS", "Shadcn UI"],
       image: "/projects/solavisetech.png?height=600&width=800",
       link: "https://solavisetech.com/",
