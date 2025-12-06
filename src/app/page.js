@@ -206,6 +206,7 @@ export default function Home() {
         { name: "SaaS", icon: <SassOriginal /> },
         { name: "Figma", icon: <FigmaOriginal /> },
         { name: "Shadcn", icon: <Code2 /> },
+        { name: "Prisma ORM", icon: <Code2 /> },
         { name: "Vite", icon: <ViteOriginal /> },
 
       ],
@@ -688,7 +689,7 @@ export default function Home() {
                 whileTap={{ scale: 0.98 }}
                 transition={{ duration: 0.3 }}
               >
-                With over 4 years of experience in web development, I&apos;ve helped businesses across various industries
+                With over 5 years of experience in web development, I&apos;ve helped businesses across various industries
                 transform their digital presence. Based in Cameroon but working globally, I specialize in building
                 robust, scalable applications that solve real-world problems.
               </motion.p>
