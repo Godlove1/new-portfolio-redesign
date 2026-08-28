@@ -1,0 +1,64 @@
+# Akale Godlove — Full-Stack Engineer & Technical Consultant
+
+> Akale Godlove is a Senior Full-Stack Engineer and Technical Consultant based in Buea, Cameroon, operating globally.
+> He designs and builds scalable web applications, distributed backend systems, and mobile software for clients
+> across the United States, Canada, the United Kingdom, Cameroon, Nigeria, and international markets.
+> 5+ years of production experience. 20+ delivered projects. 10,000+ active users.
+> BSc Computer Science, AWS Certified Cloud Practitioner, Google UX Design Certified.
+
+## Identity
+
+- Full Name: Akale Godlove
+- Professional Title: Full-Stack Engineer & Technical Consultant
+- Primary Focus: Web Application Architecture, Backend Systems, Cloud Solutions
+- Geographic Location: Buea, Cameroon (GMT+1)
+- Availability: Remote full-time engineering roles, technical advisory, engineering contracts
+- Work Authorization: Global remote contractor
+- Primary Email: akalegodlove@gmail.com
+- WhatsApp: +237 676 579 370
+- Portfolio Website: https://akalegodlove.netlify.app
+
+## Core Engineering Capabilities
+
+- Full Stack Architecture: React, Next.js, TypeScript, Node.js, Express
+- Databases and Data Layers: PostgreSQL, MySQL, Firebase, MongoDB
+- Mobile Engineering: React Native, Expo, Native Platform Integrations
+- Cloud and DevOps: AWS Cloud Infrastructure, Docker, Vercel, Netlify, CI/CD Pipelines
+- User Interface Design: Figma, Modular Design Systems, Accessible UX
+- Performance Engineering: Core Web Vitals Optimization, Technical SEO, Code Auditing
+
+## Education and Industry Certifications
+
+- Bachelor of Science in Computer Science, University of Buea (2023)
+- AWS Certified Cloud Practitioner, Amazon Web Services (2024)
+- Google UX Design Professional Certificate, Google (2024)
+
+## Production Systems and Case Studies
+
+- Izhub UK (https://izhub.uk/): SaaS booking platform for the UK service industry
+- iConz (https://iconzapp.com/): Peer to peer commerce platform serving 10,000+ active users
+- CAMYPNET (https://camypnet.org/): Medical knowledge and collaboration network for physicians
+- Samba Otavise (https://sambaotavise.com/): Executive portfolio and publication hub
+- SolaviseTech (https://solavisetech.com/): Technical academy platform for software engineering and cloud
+
+## Services
+
+1. Web Application Engineering: Custom software, SaaS platforms, and enterprise portals
+2. Backend and API Systems: Scalable RESTful and GraphQL APIs, database modeling
+3. Mobile Application Development: Cross-platform iOS and Android applications
+4. UI/UX Product Design: Design systems, interactive prototypes, and usability testing
+5. Technical SEO and Speed Optimization: Crawlability, Core Web Vitals, JSON-LD schemas
+6. Technical Consulting: Code reviews, architecture assessments, and infrastructure planning
+
+## Verified Online Profiles
+
+- GitHub: https://github.com/godlove1
+- LinkedIn: https://linkedin.com/in/akalegodlove
+- Twitter: https://twitter.com/akalegodlove
+- Instagram: https://instagram.com/akalegodlove
+
+## Direct Contact
+
+- Email: akalegodlove@gmail.com
+- WhatsApp: https://wa.me/237676579370
+- Web: https://akalegodlove.netlify.app
