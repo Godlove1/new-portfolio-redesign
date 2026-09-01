@@ -259,6 +259,32 @@ export const TESTIMONIALS: Testimonial[] = [
 
 // Featured Projects
 export const PROJECTS: Project[] = [
+   {
+    title: "Pata",
+    slug: "ask-pata",
+    category: "AI & WhatsApp Discovery Platform",
+    tagline: "Conversational, WhatsApp-first local business and service discovery engine",
+    description:
+      "A conversational WhatsApp-first discovery platform connecting consumers with real local businesses, skilled trades, repairs, and products across African cities without requiring app downloads.",
+    impact: "Empowering friction-free business discovery via WhatsApp chat and web directories",
+    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "WhatsApp Cloud API", "REST APIs"],
+    image: "/projects/pata.png",
+    link: "https://askpata.vercel.app/",
+    featured: true,
+  },
+  {
+    title: "EnvShare",
+    slug: "env-share",
+    category: "DevOps & Security Platform",
+    tagline: "Encrypted secrets and environment variable management for engineering teams",
+    description:
+      "An open-source secrets management system offering role-based access control, comprehensive audit logs, and a dedicated CLI to keep production credentials and .env values secure and out of chat or git.",
+    impact: "Zero-knowledge credential sharing with seamless CLI process injection and automated audit trails",
+    technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Supabase DB", "Node.js CLI", "Cryptography"],
+    image: "/projects/envshare.png",
+    link: "https://env-sharer.vercel.app/",
+    featured: true,
+  },
   {
     title: "Izhub UK",
     slug: "izhub-uk",

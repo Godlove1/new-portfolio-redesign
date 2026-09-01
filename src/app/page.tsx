@@ -371,24 +371,13 @@ export default function Home() {
           <div className="absolute bottom-1/4 left-1/4 w-64 h-64 bg-amber-400/5 rounded-full blur-3xl pointer-events-none" />
 
           <div className="max-w-4xl relative z-10">
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={heroInView ? { opacity: 1, y: 0 } : {}}
-              transition={{ delay: 0.1, duration: 0.5 }}
-              className="mb-8"
-            >
-              <span className="section-label">
-                <span className="w-2 h-2 rounded-full bg-teal-400" />
-                Open to international engineering contracts
-              </span>
-            </motion.div>
-
+  
             <motion.div
               initial={{ opacity: 0, y: 30 }}
               animate={heroInView ? { opacity: 1, y: 0 } : {}}
               transition={{ delay: 0.2, duration: 0.6 }}
             >
-              <p className="text-zinc-400 text-lg mb-2 font-medium">Hello, I am</p>
+              <p className="text-zinc-400 text-lg mb-2 font-medium">Hello, the name is </p>
               <h1
                 id="hero-heading"
                 className="text-6xl sm:text-7xl md:text-8xl font-bold tracking-tight mb-4"
@@ -426,7 +415,7 @@ export default function Home() {
               transition={{ delay: 0.45, duration: 0.5 }}
             >
               Engineering high performance web platforms, secure distributed backends, and digital products.
-              Partnering with forward thinking businesses in the United States, Canada, Europe, Africa, and international markets.
+              Partnering with forward thinking businesses in the United States, Canada, Europe, Africa, and Other international markets.
             </motion.p>
 
             {/* Performance Stats */}
@@ -487,8 +476,9 @@ export default function Home() {
             </motion.div>
           </div>
 
-          <motion.div
-            className="absolute bottom-10 left-8 md:left-16 flex flex-col items-center gap-2"
+         <div className=" w-full mt-12 flex justify-center   ">
+           <motion.div
+            className="flex flex-col items-center gap-2"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 1.1 }}
@@ -501,6 +491,7 @@ export default function Home() {
               <ChevronDown className="h-4 w-4 text-teal-400" />
             </motion.div>
           </motion.div>
+         </div>
         </section>
 
         {/* ABOUT SECTION */}
@@ -511,9 +502,7 @@ export default function Home() {
             whileInView="show"
             viewport={{ once: true, margin: "-80px" }}
           >
-            <motion.div variants={fadeUp}>
-              <span className="section-label">Engineering Profile</span>
-            </motion.div>
+            
 
             <motion.h2
               id="about-heading"
@@ -538,7 +527,7 @@ export default function Home() {
               <div className="relative overflow-hidden rounded-2xl aspect-[4/5] w-full max-w-sm mx-auto float">
                 <div className="absolute inset-0 bg-gradient-to-br from-teal-500/20 via-transparent to-amber-500/10 z-10" />
                 <Image
-                  src="/me-2.png"
+                  src="/akale-godlove.png"
                   alt="Akale Godlove - Full Stack Engineer"
                   fill
                   className="object-cover"
@@ -546,20 +535,7 @@ export default function Home() {
                 />
               </div>
 
-              <motion.div
-                className="absolute -top-4 -right-4 glass-teal rounded-xl p-3 flex items-center gap-2"
-                initial={{ opacity: 0, scale: 0.85 }}
-                whileInView={{ opacity: 1, scale: 1 }}
-                transition={{ delay: 0.3 }}
-                viewport={{ once: true }}
-              >
-                <Award className="h-5 w-5 text-amber-400" />
-                <div>
-                  <p className="text-xs font-semibold text-white">AWS Certified</p>
-                  <p className="text-[10px] text-zinc-400">Cloud Infrastructure</p>
-                </div>
-              </motion.div>
-
+    
               <motion.div
                 className="absolute -bottom-4 -left-4 glass-teal rounded-xl p-3 flex items-center gap-2"
                 initial={{ opacity: 0, scale: 0.85 }}
@@ -583,7 +559,7 @@ export default function Home() {
             >
               <div className="space-y-5 text-zinc-300 leading-relaxed mb-10">
                 <p>
-                  I am a Full Stack Software Engineer focused on building robust, scalable web applications, API platforms, and user centered digital products.
+                  I am a Full Stack Software Engineer focused on building interactive, scalable web applications, API platforms, and user centered digital products.
                 </p>
                 <p>
                   Over the past five years, I have architected systems for clients spanning the United States, Canada, the United Kingdom, Cameroon, and international enterprises. My engineering approach balances fast delivery with maintainable architecture, sub second load speeds, and strict code quality.
@@ -661,7 +637,6 @@ export default function Home() {
             viewport={{ once: true }}
             className="mb-14"
           >
-            <span className="section-label">Engineering Services</span>
             <h2
               id="services-heading"
               className="text-4xl md:text-5xl font-bold mb-4"
@@ -732,7 +707,6 @@ export default function Home() {
             viewport={{ once: true }}
             className="mb-14"
           >
-            <span className="section-label">Featured Projects</span>
             <h2
               id="portfolio-heading"
               className="text-4xl md:text-5xl font-bold mb-4"
@@ -845,7 +819,7 @@ export default function Home() {
         </section>
 
         {/* TESTIMONIALS SECTION */}
-        <section className="px-8 md:px-16 py-24 relative overflow-hidden" aria-labelledby="testimonials-heading">
+        {/* <section className="px-8 md:px-16 py-24 relative overflow-hidden" aria-labelledby="testimonials-heading">
           <div className="absolute inset-0 bg-gradient-to-b from-transparent via-teal-400/2 to-transparent pointer-events-none" />
 
           <motion.div
@@ -902,7 +876,7 @@ export default function Home() {
               </motion.figure>
             ))}
           </div>
-        </section>
+        </section> */}
 
         {/* CONTACT SECTION */}
         <section id="contact" className="px-8 md:px-16 py-24" aria-labelledby="contact-heading">
